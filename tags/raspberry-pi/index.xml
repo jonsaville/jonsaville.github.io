@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>raspberry pi on The personal website of Jon Saville</title><link>https://jonsaville.com/tags/raspberry-pi/</link><description>Recent content in raspberry pi on The personal website of Jon Saville</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jonsaville.com/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml"/><item><title>SPI decoding on the Raspberry Pi Pico</title><link>https://jonsaville.com/post/2021/03/serial-decoding/</link><pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate><guid>https://jonsaville.com/post/2021/03/serial-decoding/</guid><description>&lt;a class="galleryImage" href="#image0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>raspberry pi on The personal website of Jon Saville</title><link>https://jonsaville.github.io/tags/raspberry-pi/</link><description>Recent content in raspberry pi on The personal website of Jon Saville</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jonsaville.github.io/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml"/><item><title>SPI decoding on the Raspberry Pi Pico</title><link>https://jonsaville.github.io/post/2021/03/serial-decoding/</link><pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate><guid>https://jonsaville.github.io/post/2021/03/serial-decoding/</guid><description>&lt;a class="galleryImage" href="#image0">
 &lt;figure class=" figRight" id="#inlineimage0">
 &lt;img sizes="(min-width: 35em) 1200px, 100vw" srcset='
 /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_huacadb940e1896ca80f5a95d93c5416c9_2769547_31f0883ffbdb540f3ae5812d8245b1d6.jpg 500w
 , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_huacadb940e1896ca80f5a95d93c5416c9_2769547_709e36ab05d717dce8a809b8960ba71c.jpg 800w
 , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_huacadb940e1896ca80f5a95d93c5416c9_2769547_4b0c2c423a2b36ddad2706d6258214ec.jpg 1200w
 , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_huacadb940e1896ca80f5a95d93c5416c9_2769547_60abd4752f00412b59de6b63fd35a8c8.jpg 1500w
-' src="https://jonsaville.com/post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_huacadb940e1896ca80f5a95d93c5416c9_2769547_filter_15548024762731090818.jpg" alt="Pico and display showing test image">
+' src="https://jonsaville.github.io/post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_huacadb940e1896ca80f5a95d93c5416c9_2769547_filter_15548024762731090818.jpg" alt="Pico and display showing test image">
 &lt;figcaption>
 Pico and display showing test image
 &lt;/figcaption>
 &lt;/figure>
 &lt;/a>
-&lt;p>This was an experiment to decode the SPI data sent from a Pico to a &lt;a href="https://shop.pimoroni.com/products/pico-display-pack" target="_blank" rel="noopener">TFT display&lt;/a> from Pimoroni, using my &lt;a href="https://jonsaville.com/post/2021/02/new-test-gear/">recent purchase&lt;/a> - the Siglent SDS1104X-E oscilloscope.&lt;/p>
-&lt;p>To generate some test data, I modified the sample program supplied with the display to place four blocks of colour in the corners. These colour blocks are rotated every 10 seconds.&lt;/p></description></item><item><title>Raspberry Pi Pico</title><link>https://jonsaville.com/post/2021/01/pico-hello-world/</link><pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate><guid>https://jonsaville.com/post/2021/01/pico-hello-world/</guid><description>&lt;p>Well January was busy.&lt;/p>
+&lt;p>This was an experiment to decode the SPI data sent from a Pico to a &lt;a href="https://shop.pimoroni.com/products/pico-display-pack" target="_blank" rel="noopener">TFT display&lt;/a> from Pimoroni, using my &lt;a href="https://jonsaville.github.io/post/2021/02/new-test-gear/">recent purchase&lt;/a> - the Siglent SDS1104X-E oscilloscope.&lt;/p>
+&lt;p>To generate some test data, I modified the sample program supplied with the display to place four blocks of colour in the corners. These colour blocks are rotated every 10 seconds.&lt;/p></description></item><item><title>Raspberry Pi Pico</title><link>https://jonsaville.github.io/post/2021/01/pico-hello-world/</link><pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate><guid>https://jonsaville.github.io/post/2021/01/pico-hello-world/</guid><description>&lt;p>Well January was busy.&lt;/p>
 &lt;p>The Raspberry Pi Pico &lt;a href="https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/" target="_blank" rel="noopener">announcement&lt;/a> was very interesting, not least for the price of $4. I ordered one the next day, and here is the Pico running a demo on Pimoroni&amp;rsquo;s cute 1.14&amp;quot; &lt;a href="https://shop.pimoroni.com/products/pico-display-pack" target="_blank" rel="noopener">IPS display&lt;/a>.&lt;/p>
 &lt;a class="galleryImage" href="#image0">
 &lt;figure class="" id="#inlineimage0">
@@ -21,7 +21,7 @@ Pico and display showing test image
 , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu91a465d8fbc00a2ca20684945c409b73_737417_13d892ff5e65e4451c9eee8986827425.jpg 800w
 , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu91a465d8fbc00a2ca20684945c409b73_737417_87ebf13d608f49ab12f19d25309fae1c.jpg 1200w
 , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu91a465d8fbc00a2ca20684945c409b73_737417_a4eb1868062fee09c0b8f58210d07be8.jpg 1500w
-' src="https://jonsaville.com/post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu91a465d8fbc00a2ca20684945c409b73_737417_filter_18282477264708756133.jpg" alt="Pico running a graphics demo on Pimoroni&amp;#39;s 1.14&amp;#34; IPS display">
+' src="https://jonsaville.github.io/post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu91a465d8fbc00a2ca20684945c409b73_737417_filter_18282477264708756133.jpg" alt="Pico running a graphics demo on Pimoroni&amp;#39;s 1.14&amp;#34; IPS display">
 &lt;figcaption>
 Pico running a graphics demo on Pimoroni&amp;#39;s 1.14&amp;#34; IPS display
 &lt;/figcaption>
