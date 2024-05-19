@@ -302,8 +302,8 @@ a.galleryImage:hover figure figcaption {
 }
 
 .sidebar .logo-title .title img {
-    width: 127px;
-    border-radius: 50%;
+    width: 400px;
+    border-radius: 10%;
 }
 
 .sidebar .logo-title .title h3 {
@@ -1306,7 +1306,7 @@ print {
     }
 
     .sidebar .logo-title .title img {
-        width: 100px;
+        width: 70%;
     }
 
     .sidebar .logo-title .title h3 {
