@@ -1134,6 +1134,15 @@ tr.taxonomy-page td:first-child {
     vertical-align: middle;
 }
 
+iframe.embedMastodon {
+    max-width: 100%;
+    width: 800px;
+}
+
+iframe p {
+    font-size: 10px;
+}
+
 /* Phone < 600 */
 
 @media screen and (max-width: 600px) {
