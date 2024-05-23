@@ -24,7 +24,7 @@
 		
 			&lt;blockquote class="toot-blockquote" cite="https://front-end.social@mia/status/112056878975842288">
 				&lt;div class="toot-header">
-					&lt;a class="toot-profile" href="https://front-end.social/@mia" rel="noopener">
+					&lt;a class="toot-profile" href="https://front-end.social/@mia" target='_blank' rel="noopener">
 						&lt;img
 							src="https://cdn.masto.host/frontendsocial/accounts/avatars/109/287/575/127/245/522/original/0b4a5e7e3baf5a07.jpeg"
 							alt="Mastodon avatar for @mia@front-end.social"
@@ -32,8 +32,8 @@
 						/>
 					&lt;/a>
 					&lt;div class="toot-author">
-						&lt;a class="toot-author-name" href="https://front-end.social/@mia" rel="noopener">Mia (not the worst)&lt;/a>
-						&lt;a class="toot-author-handle" href="https://front-end.social/@mia" rel="noopener">@mia@front-end.social&lt;/a>
+						&lt;a class="toot-author-name" href="https://front-end.social/@mia" target='_blank' rel="noopener">Mia (not the worst)&lt;/a>
+						&lt;a class="toot-author-handle" href="https://front-end.social/@mia" target='_blank' rel="noopener">@mia@front-end.social&lt;/a>
 					&lt;/div>
 				&lt;/div>
 				&lt;p>You&amp;#39;re allowed to post on your blog once every decade, and you don&amp;#39;t even need to apologize for it. That&amp;#39;s also part of having your own space. &lt;/p>&lt;p>Personal sites aren&amp;#39;t a competition, and productivity doesn&amp;#39;t have to be a metric.&lt;/p>&lt;p>(note to self)&lt;/p>
@@ -41,7 +41,7 @@
 				
 				
 				&lt;div class="toot-footer">
-					&lt;a href="https://front-end.social/@mia/112056878975842288" class="toot-date" rel="noopener">10:57 PM • March 7, 2024&lt;/a>&amp;nbsp;&lt;span class="pokey">(UTC)&lt;/span>
+					&lt;a href="https://front-end.social/@mia/112056878975842288" class="toot-date" target='_blank' rel="noopener">10:57 PM • March 7, 2024&lt;/a>&amp;nbsp;&lt;span class="pokey">(UTC)&lt;/span>
 				&lt;/div>
 			&lt;/blockquote>
 		
@@ -517,7 +517,7 @@
 The fonts are Roboto by Christian Robertson and Open Sans by Steve Matteson, both from Google Fonts.
 The glitch image was made with the fantastic iOS app Retrospecs, and the Hugo shortcode used to embed Mastodon Toots is by Bryce Wray.
 After many years of being hosted on AWS S3, the site now lives on GitHub.
-Last build: 2024-05-23 16:54 UTC</description></item><item><title>Happy New Year 2021</title><link>https://jonsaville.com/post/2021/01/happy-new-year/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jonsaville.com/post/2021/01/happy-new-year/</guid><description>&lt;p>In the area of New Year resolutions, this seemed like a good opportunity to update my personal site, which has offered just a single page for the last few years. The intention is to post more updates on more subjects, but we&amp;rsquo;ll see how normal life interferes with that goal.&lt;/p>
+Last build: 2024-05-23 17:04 UTC</description></item><item><title>Happy New Year 2021</title><link>https://jonsaville.com/post/2021/01/happy-new-year/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jonsaville.com/post/2021/01/happy-new-year/</guid><description>&lt;p>In the area of New Year resolutions, this seemed like a good opportunity to update my personal site, which has offered just a single page for the last few years. The intention is to post more updates on more subjects, but we&amp;rsquo;ll see how normal life interferes with that goal.&lt;/p>
 &lt;p>2020 was a weird and difficult year, and we are not out of the woods yet. Today also marks the completion of the UK&amp;rsquo;s withdrawal from Europe. Speaking personally, as someone who has travelled and worked across Europe, I find this sad, damaging and retrograde. Obviously those contacts can continue, but the theatre of a political divorce, not to mention the economic impact, seems ridiculous given the global issues we all face.&lt;/p>
 &lt;p>I&amp;rsquo;ve been lucky to travel extensively throughout my career. This almost completely stopped in 2020 and is unlikely to return to previous levels, which has prompted me to look back over the photos taken in some of these countries. Hopefully some of these will make it onto the site.&lt;/p>
 &lt;p>The site still uses &lt;a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo&lt;/a>, but with a new theme. See the &lt;a href="https://jonsaville.com/credits/">credits&lt;/a> page for more details on how the site is built. There&amp;rsquo;s obviously more work to do - the mobile version is broken, and I&amp;rsquo;d like to remove external dependencies.&lt;/p></description></item></channel></rss>
