@@ -468,6 +468,10 @@ a.galleryImage:hover figure figcaption {
 
 /* Posts */
 
+.post .post-content {
+    position: relative;
+}
+
 .post .post-content a.tag {
     color: var(--nav-text-color);
 }
@@ -1248,6 +1252,15 @@ iframe p {
     tr.taxonomy-page td:first-child {
         padding-right: 20px;
     }
+
+    .aside {
+        display: block !important;
+    }
+    
+    .asideSide {
+        padding-left: 40px !important;
+        max-width: 100% !important;
+    }
 }
 
 /* Single column 600 - 960 */
@@ -1741,4 +1754,22 @@ html[data-theme="dark"] a.twitterLogo {
 .tweet-reply-to .tweet-like-icon,
 .tweet-reply-to .tweet-like-count {
     display: none
+}
+
+.aside {
+    display: flex;
+}
+
+.asideSide {
+    max-width: 40%;
+    padding-left: 8px;
+    flex: 0 0 400px;
+    margin-top: 10px;
+    font-size: 90%;
+}
+
+.asideSideInner {
+    border-left: 2px solid var(--body-color);
+    padding-left: 8px;
+    line-height: 1.6em;
 }
