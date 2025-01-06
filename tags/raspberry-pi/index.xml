@@ -20,6 +20,24 @@
  &lt;/figure>
 &lt;/a>
 
+&lt;script type="application/ld+json">
+ [
+ {
+ "@context": "https://schema.org/",
+ "@type": "ImageObject",
+ "contentUrl": "/post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico.jpg",
+ "license": "https://jonsaville.com/credits/",
+ "acquireLicensePage": "https://jonsaville.com/credits/",
+ "creditText": "The personal website of Jon Saville",
+ "creator": {
+ "@type": "Person",
+ "name": "Jon Saville"
+ },
+ "copyrightNotice": "Copyright Jon Saville"
+ }
+ ] 
+&lt;/script>
+
 
 &lt;p>This was an experiment to decode the SPI data sent from a Pico to a &lt;a href="https://shop.pimoroni.com/products/pico-display-pack" target="_blank" rel="noopener">TFT display&lt;/a> from Pimoroni, using my &lt;a href="https://jonsaville.com/post/2021/02/new-test-gear/">recent purchase&lt;/a> - the Siglent SDS1104X-E oscilloscope.&lt;/p>
 &lt;p>To generate some test data, I modified the sample program supplied with the display to place four blocks of colour in the corners. These colour blocks are rotated every 10 seconds.&lt;/p></description></item><item><title>Raspberry Pi Pico</title><link>https://jonsaville.com/post/2021/01/pico-hello-world/</link><pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate><guid>https://jonsaville.com/post/2021/01/pico-hello-world/</guid><description>&lt;p>Well January was busy.&lt;/p>
@@ -106,4 +124,22 @@
  
  &lt;/figcaption>
  &lt;/figure>
-&lt;/a></description></item></channel></rss>
+&lt;/a>
+
+&lt;script type="application/ld+json">
+ [
+ {
+ "@context": "https://schema.org/",
+ "@type": "ImageObject",
+ "contentUrl": "/post/2021/01/pico-hello-world/Feature-PicoDisplayDemo.jpg",
+ "license": "https://jonsaville.com/credits/",
+ "acquireLicensePage": "https://jonsaville.com/credits/",
+ "creditText": "The personal website of Jon Saville",
+ "creator": {
+ "@type": "Person",
+ "name": "Jon Saville"
+ },
+ "copyrightNotice": "Copyright Jon Saville"
+ }
+ ] 
+&lt;/script></description></item></channel></rss>

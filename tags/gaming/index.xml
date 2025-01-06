@@ -82,7 +82,25 @@
  
  &lt;/figcaption>
  &lt;/figure>
-&lt;/a></description></item><item><title>Currently playing: Halo Infinite campaign</title><link>https://jonsaville.com/post/2021/12/halo-infinite/</link><pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate><guid>https://jonsaville.com/post/2021/12/halo-infinite/</guid><description>&lt;p>I&amp;rsquo;m playing the Halo Infinite campaign and thoroughly enjoying it. It&amp;rsquo;s a joy to play, with enough narrative to engage you, and an environment that is gorgeous to explore.&lt;/p>
+&lt;/a>
+
+&lt;script type="application/ld+json">
+ [
+ {
+ "@context": "https://schema.org/",
+ "@type": "ImageObject",
+ "contentUrl": "/post/2022/01/games-played-2021/Halo%20Infinite%202.jpg",
+ "license": "https://jonsaville.com/credits/",
+ "acquireLicensePage": "https://jonsaville.com/credits/",
+ "creditText": "The personal website of Jon Saville",
+ "creator": {
+ "@type": "Person",
+ "name": "Jon Saville"
+ },
+ "copyrightNotice": "Copyright Jon Saville"
+ }
+ ] 
+&lt;/script></description></item><item><title>Currently playing: Halo Infinite campaign</title><link>https://jonsaville.com/post/2021/12/halo-infinite/</link><pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate><guid>https://jonsaville.com/post/2021/12/halo-infinite/</guid><description>&lt;p>I&amp;rsquo;m playing the Halo Infinite campaign and thoroughly enjoying it. It&amp;rsquo;s a joy to play, with enough narrative to engage you, and an environment that is gorgeous to explore.&lt;/p>
 
 
 
@@ -165,4 +183,22 @@
  
  &lt;/figcaption>
  &lt;/figure>
-&lt;/a></description></item></channel></rss>
+&lt;/a>
+
+&lt;script type="application/ld+json">
+ [
+ {
+ "@context": "https://schema.org/",
+ "@type": "ImageObject",
+ "contentUrl": "/post/2021/12/halo-infinite/Halo%20Infinite%201.jpg",
+ "license": "https://jonsaville.com/credits/",
+ "acquireLicensePage": "https://jonsaville.com/credits/",
+ "creditText": "The personal website of Jon Saville",
+ "creator": {
+ "@type": "Person",
+ "name": "Jon Saville"
+ },
+ "copyrightNotice": "Copyright Jon Saville"
+ }
+ ] 
+&lt;/script></description></item></channel></rss>

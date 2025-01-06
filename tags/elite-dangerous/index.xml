@@ -82,4 +82,22 @@
  
  &lt;/figcaption>
  &lt;/figure>
-&lt;/a></description></item></channel></rss>
+&lt;/a>
+
+&lt;script type="application/ld+json">
+ [
+ {
+ "@context": "https://schema.org/",
+ "@type": "ImageObject",
+ "contentUrl": "/post/2022/01/games-played-2021/Halo%20Infinite%202.jpg",
+ "license": "https://jonsaville.com/credits/",
+ "acquireLicensePage": "https://jonsaville.com/credits/",
+ "creditText": "The personal website of Jon Saville",
+ "creator": {
+ "@type": "Person",
+ "name": "Jon Saville"
+ },
+ "copyrightNotice": "Copyright Jon Saville"
+ }
+ ] 
+&lt;/script></description></item></channel></rss>

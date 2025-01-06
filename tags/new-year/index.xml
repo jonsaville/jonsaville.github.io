@@ -82,7 +82,25 @@
  
  &lt;/figcaption>
  &lt;/figure>
-&lt;/a></description></item><item><title>Happy New Year 2024</title><link>https://jonsaville.com/post/2024/01/happy-new-year-2024/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://jonsaville.com/post/2024/01/happy-new-year-2024/</guid><description>&lt;p>Okay so this is a cheat - I&amp;rsquo;m writing this in May 2024, in the Highlands of Scotland, in glorious sunshine, shortly after the amazing aurora display and shortly before my fiftieth birthday.&lt;/p>
+&lt;/a>
+
+&lt;script type="application/ld+json">
+ [
+ {
+ "@context": "https://schema.org/",
+ "@type": "ImageObject",
+ "contentUrl": "/post/2025/01/happy-new-year-2025/ScotlandAurora.jpg",
+ "license": "https://jonsaville.com/credits/",
+ "acquireLicensePage": "https://jonsaville.com/credits/",
+ "creditText": "The personal website of Jon Saville",
+ "creator": {
+ "@type": "Person",
+ "name": "Jon Saville"
+ },
+ "copyrightNotice": "Copyright Jon Saville"
+ }
+ ] 
+&lt;/script></description></item><item><title>Happy New Year 2024</title><link>https://jonsaville.com/post/2024/01/happy-new-year-2024/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://jonsaville.com/post/2024/01/happy-new-year-2024/</guid><description>&lt;p>Okay so this is a cheat - I&amp;rsquo;m writing this in May 2024, in the Highlands of Scotland, in glorious sunshine, shortly after the amazing aurora display and shortly before my fiftieth birthday.&lt;/p>
 &lt;p>The last 18 months have been hectic to say the least, but a post on Mastodon reminded me not to worry too much about this site.&lt;/p>
 
 
