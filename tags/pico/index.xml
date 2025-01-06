@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pico on The personal website of Jon Saville</title><link>https://jonsaville.com/tags/pico/</link><description>Recent content in Pico on The personal website of Jon Saville</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jonsaville.com/tags/pico/index.xml" rel="self" type="application/rss+xml"/><item><title>SPI decoding on the Raspberry Pi Pico</title><link>https://jonsaville.com/post/2021/03/serial-decoding/</link><pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate><guid>https://jonsaville.com/post/2021/03/serial-decoding/</guid><description>&lt;a class="galleryImage" href="#image0">
-&lt;figure class=" figRight" id="#inlineimage0">
+ &lt;figure class=" figRight copyright" id="#inlineimage0">
  &lt;img sizes="(min-width: 35em) 1200px, 100vw" srcset='
  
- /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu9432562200265016743.jpg 500w
+ /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu4090064170691985844.jpg 500w
  
  
- , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu2571608431919597658.jpg 800w
+ , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu17361108514308256300.jpg 800w
  
  
- , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu241197793536284335.jpg 1200w
+ , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu11563325044957669534.jpg 1200w
  
  
- , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu2706317181390426622.jpg 1500w 
- ' src="https://jonsaville.com/post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu18042487555982942110.jpg" alt="Pico and display showing test image">
+ , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu14474714756866564254.jpg 1500w 
+ ' src="https://jonsaville.com/post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico.jpg" alt="Pico and display showing test image">
  &lt;figcaption>
  Pico and display showing test image
  
  &lt;/figcaption>
-&lt;/figure>
+ &lt;/figure>
 &lt;/a>
 
 
@@ -86,43 +86,24 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
 &lt;a class="galleryImage" href="#image0">
-&lt;figure class="" id="#inlineimage0">
+ &lt;figure class=" copyright" id="#inlineimage0">
  &lt;img sizes="(min-width: 35em) 1200px, 100vw" srcset='
  
- /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu3825085547709235613.jpg 500w
+ /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu836760984765278955.jpg 500w
  
  
- , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu16186914197602822760.jpg 800w
+ , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu4833432317306573579.jpg 800w
  
  
- , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu16324541824649202667.jpg 1200w
+ , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu8536826828274388791.jpg 1200w
  
  
- , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu9029676210855111759.jpg 1500w 
- ' src="https://jonsaville.com/post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu4173208693296590517.jpg" alt="Pico running a graphics demo on Pimoroni&amp;#39;s 1.14&amp;#34; IPS display">
+ , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu469521227527514930.jpg 1500w 
+ ' src="https://jonsaville.com/post/2021/01/pico-hello-world/Feature-PicoDisplayDemo.jpg" alt="Pico running a graphics demo on Pimoroni&amp;#39;s 1.14&amp;#34; IPS display">
  &lt;figcaption>
  Pico running a graphics demo on Pimoroni&amp;#39;s 1.14&amp;#34; IPS display
  
  &lt;/figcaption>
-&lt;/figure>
+ &lt;/figure>
 &lt;/a></description></item></channel></rss>
