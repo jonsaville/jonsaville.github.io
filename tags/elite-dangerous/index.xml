@@ -62,20 +62,44 @@
 
 
 
-&lt;a class="galleryImage" href="#image1">
+
+
+&lt;a class="galleryImage onPost" href="#image1">
  &lt;figure class=" copyright" id="#inlineimage1">
  &lt;img sizes="(min-width: 35em) 1200px, 100vw" srcset='
  
- /post/2022/01/games-played-2021/Halo%20Infinite%202_hu15234800963296864429.jpg 500w
+ /post/2022/01/games-played-2021/Halo%20Infinite%202_hu_8c4c085574de5e01.jpg 500w
  
  
- , /post/2022/01/games-played-2021/Halo%20Infinite%202_hu8973563207923550470.jpg 800w
+ , /post/2022/01/games-played-2021/Halo%20Infinite%202_hu_64cc7aef825f8d78.jpg 800w
  
  
- , /post/2022/01/games-played-2021/Halo%20Infinite%202_hu16475673558914463905.jpg 1200w
+ , /post/2022/01/games-played-2021/Halo%20Infinite%202_hu_de98ea67d0ea4a9e.jpg 1200w
  
  
- , /post/2022/01/games-played-2021/Halo%20Infinite%202_hu2056937202874878921.jpg 1500w 
+ , /post/2022/01/games-played-2021/Halo%20Infinite%202_hu_af229f8ee4a1d208.jpg 1500w 
+ ' src="https://jonsaville.com/post/2022/01/games-played-2021/Halo%20Infinite%202.jpg" alt="Halo Infinite - Standout game of 2021">
+ &lt;figcaption>
+ Halo Infinite - Standout game of 2021
+ 
+ &lt;/figcaption>
+ &lt;/figure>
+&lt;/a>
+
+&lt;a class="galleryImage onIndex" href="https://jonsaville.com/post/2022/01/games-played-2021/">
+ &lt;figure class=" copyright" id="#inlineimage1">
+ &lt;img sizes="(min-width: 35em) 1200px, 100vw" srcset='
+ 
+ /post/2022/01/games-played-2021/Halo%20Infinite%202_hu_8c4c085574de5e01.jpg 500w
+ 
+ 
+ , /post/2022/01/games-played-2021/Halo%20Infinite%202_hu_64cc7aef825f8d78.jpg 800w
+ 
+ 
+ , /post/2022/01/games-played-2021/Halo%20Infinite%202_hu_de98ea67d0ea4a9e.jpg 1200w
+ 
+ 
+ , /post/2022/01/games-played-2021/Halo%20Infinite%202_hu_af229f8ee4a1d208.jpg 1500w 
  ' src="https://jonsaville.com/post/2022/01/games-played-2021/Halo%20Infinite%202.jpg" alt="Halo Infinite - Standout game of 2021">
  &lt;figcaption>
  Halo Infinite - Standout game of 2021

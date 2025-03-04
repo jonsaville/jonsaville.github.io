@@ -192,6 +192,15 @@ figure.figLeft {
     padding-bottom: 20px;
 }
 
+body.kind-page a.onIndex {
+    display: none;
+}
+
+body.kind-home a.onPost,
+body.kind-section a.onPost {
+    display: none;
+}
+
 figcaption {
     font-size: 12px;
     overflow: hidden;
@@ -1150,7 +1159,7 @@ iframe p {
     font-size: 10px;
 }
 
-// Toots
+/* Toots */
 
 .twitter-tweet {
     font-size: var(--text-sm)
@@ -1162,16 +1171,16 @@ iframe p {
 
 @media screen and (min-width: 1024px) {
     .twitter-tweet p {
-        font-size:var(--text-xl)
+        font-size: var(--text-xl)
     }
 }
 
 .toot-blockquote {
-    background: light-dark(var(--white),var(--gray-900));
+    background: light-dark(var(--white), var(--gray-900));
     border: 2px solid;
-    border-color: light-dark(var(--gray-700),var(--gray-200));
+    border-color: light-dark(var(--gray-700), var(--gray-200));
     border-radius: 12px;
-    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
     font-family: var(--social-sans-serif);
     font-size: var(--text-base);
     line-height: 1.35em;
@@ -1188,24 +1197,25 @@ iframe p {
 
 @media screen and (min-width: 900px) {
     .toot-blockquote {
-        width:80%
+        width: 80%
     }
 }
 
 @media screen and (min-width: 1024px) {
     .toot-blockquote {
-        width:85%
+        width: 85%
     }
 }
 
 @media screen and (min-width: 1920px) {
     .toot-blockquote {
-        max-width:80ch
+        max-width: 80ch
     }
 }
 
-.toot-blockquote a,.toot-blockquote a:hover {
-    border: none!important;
+.toot-blockquote a,
+.toot-blockquote a:hover {
+    border: none !important;
     overflow-wrap: break-word;
     text-decoration: none;
     word-wrap: break-word;
@@ -1214,11 +1224,11 @@ iframe p {
 }
 
 .toot-blockquote .toot-blockquote {
-    width: 100%!important
+    width: 100% !important
 }
 
 .toot-body {
-    text-align: left!important
+    text-align: left !important
 }
 
 .toot-images img {
@@ -1235,7 +1245,7 @@ iframe p {
 
 .toot-blockquote-img {
     border-bottom: 1px solid;
-    border-bottom-color: light-dark(var(--gray-700),var(--gray-300));
+    border-bottom-color: light-dark(var(--gray-700), var(--gray-300));
     width: 100%
 }
 
@@ -1243,13 +1253,14 @@ iframe p {
     display: flex
 }
 
-a>.card,a>.toot-card {
-    color: light-dark(var(--gray-800),var(--gray-300))
+a>.card,
+a>.toot-card {
+    color: light-dark(var(--gray-800), var(--gray-300))
 }
 
 .card {
     border: 1px solid;
-    border-color: light-dark(var(--gray-700),var(--gray-300));
+    border-color: light-dark(var(--gray-700), var(--gray-300));
     border-radius: 12px;
     margin-top: 1em;
     overflow: hidden
@@ -1263,7 +1274,7 @@ a>.card,a>.toot-card {
 }
 
 .card p .card-title {
-    color: light-dark(var(--black),var(--white))
+    color: light-dark(var(--black), var(--white))
 }
 
 .toot-header {
@@ -1293,46 +1304,50 @@ a>.card,a>.toot-card {
 }
 
 .toot-header .toot-author-name {
-    color: light-dark(var(--black),var(--white));
+    color: light-dark(var(--black), var(--white));
     font-size: var(--text-base);
     font-weight: 700;
     line-height: 1.375
 }
 
 .toot-header .toot-author-handle {
-    color: light-dark(var(--gray-700),var(--gray-300));
+    color: light-dark(var(--gray-700), var(--gray-300));
     line-height: 1
 }
 
-.toot-footer,.toot-header .toot-author-handle {
+.toot-footer,
+.toot-header .toot-author-handle {
     font-size: var(--text-sm);
     font-weight: var(--font-weight-sm)
 }
 
 .toot-footer {
     align-items: center;
-    color: light-dark(var(--gray-800),var(--gray-200));
+    color: light-dark(var(--gray-800), var(--gray-200));
     display: flex;
     margin-top: 1rem
 }
 
-.toot-footer .toot-like-count,.toot-footer .toot-like-icon {
+.toot-footer .toot-like-count,
+.toot-footer .toot-like-icon {
     display: none
 }
 
 .toot-footer a {
-    color: light-dark(var(--gray-800),var(--gray-200))
+    color: light-dark(var(--gray-800), var(--gray-200))
 }
 
 .toot-footer a:hover {
-    color: light-dark(var(--link),var(--link))
+    color: light-dark(var(--link), var(--link))
 }
 
-.toot-media-video,.toot-video-wrapper,[class^=toot-img-grid] {
+.toot-media-video,
+.toot-video-wrapper,
+[class^=toot-img-grid] {
     border-radius: 1em;
     border-radius: var(--tc-corner-radius);
     display: grid;
-    grid-template-columns: repeat(1,1fr);
+    grid-template-columns: repeat(1, 1fr);
     margin-top: .5em;
     overflow: hidden;
     grid-gap: 2px
@@ -1346,7 +1361,7 @@ a>.card,a>.toot-card {
 }
 
 .toot-img-grid-3 {
-    grid-template-columns: repeat(2,1fr)
+    grid-template-columns: repeat(2, 1fr)
 }
 
 .toot-img-grid-3 .toot-media-img {
@@ -1362,8 +1377,9 @@ a>.card,a>.toot-card {
     aspect-ratio: .9
 }
 
-.toot-img-grid-2,.toot-img-grid-4 {
-    grid-template-columns: repeat(2,1fr)
+.toot-img-grid-2,
+.toot-img-grid-4 {
+    grid-template-columns: repeat(2, 1fr)
 }
 
 .toot-sens-blur {
@@ -1372,9 +1388,9 @@ a>.card,a>.toot-card {
 }
 
 .toot-sens-blur-no {
-    filter: none!important;
+    filter: none !important;
     position: relative;
-    z-index: 9999!important
+    z-index: 9999 !important
 }
 
 [class^=toot-img-grid] {
@@ -1395,7 +1411,7 @@ a>.card,a>.toot-card {
 
 .blur-text-no {
     background-color: var(--black);
-    display: none!important
+    display: none !important
 }
 
 .toot-poll-wrapper {
@@ -1428,7 +1444,7 @@ a>.card,a>.toot-card {
 
 .toot-quoted-tweet {
     border: 1px solid;
-    border-color: light-dark(var(--gray-800),var(--gray-200));
+    border-color: light-dark(var(--gray-800), var(--gray-200));
     border-radius: 12px;
     margin-bottom: 0;
     margin-top: .75em;
@@ -1453,7 +1469,7 @@ a>.card,a>.toot-card {
 }
 
 .toot-quoted-tweet p.toot-quoted-toot-head a {
-    color: light-dark(var(--gray-800),var(--gray-200))
+    color: light-dark(var(--gray-800), var(--gray-200))
 }
 
 .toot-quoted-tweet p.toot-quoted-toot-head a:hover {
@@ -1461,14 +1477,15 @@ a>.card,a>.toot-card {
 }
 
 .toot-reply-to {
-    color: light-dark(var(--gray-800),var(--gray-200));
+    color: light-dark(var(--gray-800), var(--gray-200));
     font-size: var(--text-sm);
     line-height: 1.3em;
     margin-top: 0;
     padding-top: 0
 }
 
-.toot-reply-to .toot-like-count,.toot-reply-to .toot-like-icon {
+.toot-reply-to .toot-like-count,
+.toot-reply-to .toot-like-icon {
     display: none
 }
 
@@ -1490,7 +1507,7 @@ a>.card,a>.toot-card {
 }
 
 .toot-card-image {
-    flex:0 0 200px
+    flex: 0 0 200px
 }
 
 .toot-card-image-image {
@@ -1515,7 +1532,8 @@ a>.card,a>.toot-card {
     font-weight: 700
 }
 
-.toot-card-content .card-description,.toot-card-content .card-title {
+.toot-card-content .card-description,
+.toot-card-content .card-title {
     font-size: var(--text-sm)
 }
 
@@ -1625,7 +1643,7 @@ a>.card,a>.toot-card {
     .aside {
         display: block !important;
     }
-    
+
     .asideSide {
         padding-left: 40px !important;
         max-width: 100% !important;
