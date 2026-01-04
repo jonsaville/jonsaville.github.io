@@ -124,7 +124,7 @@ em {
 }
 
 p {
-    line-height: 1.6em;
+    line-height: 1.4em;
     font-weight: 400;
     font-size: 14px;
     margin-top: 10px;
@@ -185,11 +185,32 @@ figure.figRight {
     padding-bottom: 20px;
 }
 
+figure.figRight.figThumbnail {
+    width: 150px;
+    float: right;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    clear: right;
+    margin-top: 0;
+    padding-top: 10px;
+}
+
 figure.figLeft {
     width: 30%;
     float: left;
     padding-right: 20px;
     padding-bottom: 20px;
+    clear: left;
+}
+
+figure.figLeft.figThumbnail {
+    width: 150px;
+    float: left;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    clear: left;
+    margin-top: 0;
+    padding-top: 10px;
 }
 
 body.kind-page a.onIndex {

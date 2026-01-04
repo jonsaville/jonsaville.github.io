@@ -1,48 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Raspberry Pi on The personal website of Jon Saville</title><link>https://jonsaville.com/tags/raspberry-pi/</link><description>Recent content in Raspberry Pi on The personal website of Jon Saville</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jonsaville.com/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml"/><item><title>SPI decoding on the Raspberry Pi Pico</title><link>https://jonsaville.com/post/2021/03/serial-decoding/</link><pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate><guid>https://jonsaville.com/post/2021/03/serial-decoding/</guid><description>&lt;a class="galleryImage onPost" href="#image0">
- &lt;figure class=" figRight copyright" id="#inlineimage0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Raspberry Pi on The personal website of Jon Saville</title><link>https://jonsaville.com/tags/raspberry-pi/</link><description>Recent content in Raspberry Pi on The personal website of Jon Saville</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jonsaville.com/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml"/><item><title>SPI decoding on the Raspberry Pi Pico</title><link>https://jonsaville.com/post/2021/03/serial-decoding/</link><pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate><guid>https://jonsaville.com/post/2021/03/serial-decoding/</guid><description>&lt;a class="galleryImage onPost" href="#image0"&gt;
+ &lt;figure class=" figRight copyright" id="#inlineimage0"&gt;
  &lt;img sizes="(min-width: 35em) 1200px, 100vw" srcset='
  
- /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu_45f5f218added85b.jpg 500w
+ /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu_b95f8dce88a9911c.jpg 200w
  
  
- , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu_821e5d6109783fde.jpg 800w
+ /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu_16b7e8023990eec4.jpg 500w
  
  
- , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu_874074e9249d146a.jpg 1200w
+ , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu_e5d3b018573b10.jpg 800w
  
  
- , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu_67b5a77c4143284c.jpg 1500w 
- ' src="https://jonsaville.com/post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico.jpg" alt="Pico and display showing test image">
- &lt;figcaption>
+ , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu_300d239f3b793de4.jpg 1200w
+ 
+ 
+ , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu_f3ffe3a4028efc24.jpg 1500w 
+ ' src="https://jonsaville.com/post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico.jpg" alt="Pico and display showing test image"&gt;
+ 
+ &lt;figcaption&gt;
  Pico and display showing test image
  
- &lt;/figcaption>
- &lt;/figure>
-&lt;/a>
+ &lt;/figcaption&gt;
 
-&lt;a class="galleryImage onIndex" href="https://jonsaville.com/post/2021/03/serial-decoding/">
- &lt;figure class=" figRight copyright" id="#inlineimage0">
+ &lt;/figure&gt;
+&lt;/a&gt;
+
+&lt;a class="galleryImage onIndex" href="https://jonsaville.com/post/2021/03/serial-decoding/"&gt;
+ &lt;figure class=" figRight copyright" id="#inlineimage0"&gt;
  &lt;img sizes="(min-width: 35em) 1200px, 100vw" srcset='
  
- /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu_45f5f218added85b.jpg 500w
+ /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu_b95f8dce88a9911c.jpg 200w
  
  
- , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu_821e5d6109783fde.jpg 800w
+ /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu_16b7e8023990eec4.jpg 500w
  
  
- , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu_874074e9249d146a.jpg 1200w
+ , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu_e5d3b018573b10.jpg 800w
  
  
- , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu_67b5a77c4143284c.jpg 1500w 
- ' src="https://jonsaville.com/post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico.jpg" alt="Pico and display showing test image">
- &lt;figcaption>
+ , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu_300d239f3b793de4.jpg 1200w
+ 
+ 
+ , /post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico_hu_f3ffe3a4028efc24.jpg 1500w 
+ ' src="https://jonsaville.com/post/2021/03/serial-decoding/Feature-SPI%20Decoding%20on%20Pico.jpg" alt="Pico and display showing test image"&gt;
+ &lt;figcaption&gt;
  Pico and display showing test image
  
- &lt;/figcaption>
- &lt;/figure>
-&lt;/a>
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/a&gt;
 
-&lt;script type="application/ld+json">
+&lt;script type="application/ld+json"&gt;
  [
  {
  "@context": "https://schema.org/",
@@ -58,12 +66,12 @@
  "copyrightNotice": "Copyright Jon Saville"
  }
  ] 
-&lt;/script>
+&lt;/script&gt;
 
 
-&lt;p>This was an experiment to decode the SPI data sent from a Pico to a &lt;a href="https://shop.pimoroni.com/products/pico-display-pack" target="_blank" rel="noopener">TFT display&lt;/a> from Pimoroni, using my &lt;a href="https://jonsaville.com/post/2021/02/new-test-gear/">recent purchase&lt;/a> - the Siglent SDS1104X-E oscilloscope.&lt;/p>
-&lt;p>To generate some test data, I modified the sample program supplied with the display to place four blocks of colour in the corners. These colour blocks are rotated every 10 seconds.&lt;/p></description></item><item><title>Raspberry Pi Pico</title><link>https://jonsaville.com/post/2021/01/pico-hello-world/</link><pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate><guid>https://jonsaville.com/post/2021/01/pico-hello-world/</guid><description>&lt;p>Well January was busy.&lt;/p>
-&lt;p>The Raspberry Pi Pico &lt;a href="https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/" target="_blank" rel="noopener">announcement&lt;/a> was very interesting, not least for the price of $4. I ordered one the next day, and here is the Pico running a demo on Pimoroni&amp;rsquo;s cute 1.14&amp;quot; &lt;a href="https://shop.pimoroni.com/products/pico-display-pack" target="_blank" rel="noopener">IPS display&lt;/a>.&lt;/p>
+&lt;p&gt;This was an experiment to decode the SPI data sent from a Pico to a &lt;a href="https://shop.pimoroni.com/products/pico-display-pack" target="_blank" rel="noopener"&gt;TFT display&lt;/a&gt; from Pimoroni, using my &lt;a href="https://jonsaville.com/post/2021/02/new-test-gear/"&gt;recent purchase&lt;/a&gt; - the Siglent SDS1104X-E oscilloscope.&lt;/p&gt;
+&lt;p&gt;To generate some test data, I modified the sample program supplied with the display to place four blocks of colour in the corners. These colour blocks are rotated every 10 seconds.&lt;/p&gt;</description></item><item><title>Raspberry Pi Pico</title><link>https://jonsaville.com/post/2021/01/pico-hello-world/</link><pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate><guid>https://jonsaville.com/post/2021/01/pico-hello-world/</guid><description>&lt;p&gt;Well January was busy.&lt;/p&gt;
+&lt;p&gt;The Raspberry Pi Pico &lt;a href="https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/" target="_blank" rel="noopener"&gt;announcement&lt;/a&gt; was very interesting, not least for the price of $4. I ordered one the next day, and here is the Pico running a demo on Pimoroni&amp;rsquo;s cute 1.14&amp;quot; &lt;a href="https://shop.pimoroni.com/products/pico-display-pack" target="_blank" rel="noopener"&gt;IPS display&lt;/a&gt;.&lt;/p&gt;
 
 
 
@@ -128,51 +136,65 @@
 
 
 
-&lt;a class="galleryImage onPost" href="#image0">
- &lt;figure class=" copyright" id="#inlineimage0">
+
+
+
+
+
+
+&lt;a class="galleryImage onPost" href="#image0"&gt;
+ &lt;figure class=" copyright" id="#inlineimage0"&gt;
  &lt;img sizes="(min-width: 35em) 1200px, 100vw" srcset='
  
- /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu_3f1f7fef85306a66.jpg 500w
+ /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu_9b65454da2dc6646.jpg 200w
  
  
- , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu_b5bcc38a66d901a9.jpg 800w
+ /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu_e4823b2a8df90f3a.jpg 500w
  
  
- , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu_26b07a5c7fc7abda.jpg 1200w
+ , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu_a0a0a1158dba596f.jpg 800w
  
  
- , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu_578a1a8747bdb128.jpg 1500w 
- ' src="https://jonsaville.com/post/2021/01/pico-hello-world/Feature-PicoDisplayDemo.jpg" alt="Pico running a graphics demo on Pimoroni&amp;#39;s 1.14&amp;#34; IPS display">
- &lt;figcaption>
+ , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu_efc8e1a6c66ac08a.jpg 1200w
+ 
+ 
+ , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu_1f75d531c2b89754.jpg 1500w 
+ ' src="https://jonsaville.com/post/2021/01/pico-hello-world/Feature-PicoDisplayDemo.jpg" alt="Pico running a graphics demo on Pimoroni&amp;#39;s 1.14&amp;#34; IPS display"&gt;
+ 
+ &lt;figcaption&gt;
  Pico running a graphics demo on Pimoroni&amp;#39;s 1.14&amp;#34; IPS display
  
- &lt;/figcaption>
- &lt;/figure>
-&lt;/a>
+ &lt;/figcaption&gt;
 
-&lt;a class="galleryImage onIndex" href="https://jonsaville.com/post/2021/01/pico-hello-world/">
- &lt;figure class=" copyright" id="#inlineimage0">
+ &lt;/figure&gt;
+&lt;/a&gt;
+
+&lt;a class="galleryImage onIndex" href="https://jonsaville.com/post/2021/01/pico-hello-world/"&gt;
+ &lt;figure class=" copyright" id="#inlineimage0"&gt;
  &lt;img sizes="(min-width: 35em) 1200px, 100vw" srcset='
  
- /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu_3f1f7fef85306a66.jpg 500w
+ /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu_9b65454da2dc6646.jpg 200w
  
  
- , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu_b5bcc38a66d901a9.jpg 800w
+ /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu_e4823b2a8df90f3a.jpg 500w
  
  
- , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu_26b07a5c7fc7abda.jpg 1200w
+ , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu_a0a0a1158dba596f.jpg 800w
  
  
- , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu_578a1a8747bdb128.jpg 1500w 
- ' src="https://jonsaville.com/post/2021/01/pico-hello-world/Feature-PicoDisplayDemo.jpg" alt="Pico running a graphics demo on Pimoroni&amp;#39;s 1.14&amp;#34; IPS display">
- &lt;figcaption>
+ , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu_efc8e1a6c66ac08a.jpg 1200w
+ 
+ 
+ , /post/2021/01/pico-hello-world/Feature-PicoDisplayDemo_hu_1f75d531c2b89754.jpg 1500w 
+ ' src="https://jonsaville.com/post/2021/01/pico-hello-world/Feature-PicoDisplayDemo.jpg" alt="Pico running a graphics demo on Pimoroni&amp;#39;s 1.14&amp;#34; IPS display"&gt;
+ &lt;figcaption&gt;
  Pico running a graphics demo on Pimoroni&amp;#39;s 1.14&amp;#34; IPS display
  
- &lt;/figcaption>
- &lt;/figure>
-&lt;/a>
+ &lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;/a&gt;
 
-&lt;script type="application/ld+json">
+&lt;script type="application/ld+json"&gt;
  [
  {
  "@context": "https://schema.org/",
@@ -188,4 +210,4 @@
  "copyrightNotice": "Copyright Jon Saville"
  }
  ] 
-&lt;/script></description></item></channel></rss>
+&lt;/script&gt;</description></item></channel></rss>
